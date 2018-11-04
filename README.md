@@ -6,7 +6,7 @@ visit `http://www.swi-prolog.org/Download.html` to download SWI-prolog locally.
 visit `https://swish.swi-prolog.org` to run prolog online.
 Note: when using the online compiler, in order for prolog to have access to the input data you will need to put the initial state (or test data) in the same file and remove the `:-include` in the first line.
 
-![alt text](https://raw.githubusercontent.com/Ramim/trains/1.PNG)
+![alt text](https://github.com/Ramim/trains/blob/master/1.PNG)
 
 ## Usage
 main.pl (which includes a test file that is specified in the first line) needs to be compiled by prolog.
