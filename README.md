@@ -13,3 +13,6 @@ main.pl (which includes a test file that is specified in the first line) needs t
 the main query (to answer q1-q10 for a given test file) is simply `main`
  
 testGenerator.py is a simple python 2.7 script that makes it easy to create new tests by formatting strings into prolog predicates and placing them into a new test file
+
+## Problem
+https://docs.google.com/document/d/1Vpru3vyBe3SLrm_rfu2nIwfgxM6i-ZHZY8BZYe7MI5I/edit?usp=sharing
