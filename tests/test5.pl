@@ -1,0 +1,15 @@
+train(a,a1,8).
+train(a,a2,10).
+train(a,a3,7).
+train(a1,b,2).
+train(a2,b,1).
+train(a3,b,5).
+train(b,b1,2).
+train(b,b2,5).
+train(b1,c,11).
+train(b2,c,8).
+train(c,d2,5).
+train(c,d1,6).
+train(d1,d,4).
+train(d2,d,3).
+train(d,a,2).
