@@ -1,4 +1,4 @@
-%% Usage: for answers to q1-q10 query main1
+%% Usage: for answers to q1-q10 query main
 %%---------------------
 
 %% input file containing train(X,Y,Z) predicates
